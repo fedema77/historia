@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Bienvenido a mi Historia! 
+=======
+Ahora tengo este título!
+>>>>>>> cabecera
 
 Esta es mi historia. Aquí comienza el gran camino del desarrollo front-end
 para Federico Maciel. Gracias a la constante practica y disciplina lograré
