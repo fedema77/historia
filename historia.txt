@@ -1,4 +1,4 @@
-Ahora tengo esteste título!
+Ahora tengo este título!
 
 Esta es mi historia. Aquí comienza el gran camino del desarrollo front-end
 para Federico Maciel. Gracias a la constante practica y disciplina lograré
