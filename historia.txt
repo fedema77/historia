@@ -10,3 +10,5 @@ Actualmente tengo 32 años y el mundo esta en cuarentena por el covid-19.
 
 Los días continuaban, y Git comenzaba a ser parte de mi vida. Ahora estamos
 editando esto desde GitHub.
+
+Funalo de Tal
